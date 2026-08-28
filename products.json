@@ -1,0 +1,117 @@
+[
+  {
+    "id": "p1",
+    "category": "laptop",
+    "name": "HP ProBook 645 G8",
+    "icon": "img/hp/WhatsApp Image 2026-08-23 at 13.22.02.jpeg",
+    "spec": "Ryzen 5 4500U · 8GB RAM · SSD 256GB · 13,3\" FHD",
+    "price": 5000000,
+     "releaseDate": "2026-08-28",
+    "images": [
+      "img/hp/WhatsApp Image 2026-08-23 at 13.22.02.jpeg",
+      "img/hp/WhatsApp Image 2026-08-23 at 13.22.03.jpeg",
+      "img/hp/WhatsApp Image 2026-08-23 at 13.22.05.jpeg",
+      "img/hp/WhatsApp Image 2026-08-23 at 13.22.06.jpeg",
+      "img/hp/WhatsApp Image 2026-08-23 at 13.22.07.jpeg"
+    ],
+    "specs": [
+      { "label": "Prosesor", "value": "Ryzen 5 4500U" },
+      { "label": "RAM", "value": "8GB" },
+      { "label": "Penyimpanan", "value": "256 GB SSD" },
+      { "label": "Layar", "value": "13,3\" FHD (1920x1080)" },
+      { "label": "Grafis", "value": "Amd Radeon Graphics" },
+      { "label": "Baterai", "value": "Pemakaian normal" },
+      { "label": "Sistem Operasi", "value": "Windows 11 Home (original)" },
+      { "label": "Berat", "value": "1.5 kg" },
+      { "label": "Garansi", "value": "Garansi mesin 1 Bulan" }
+    ]
+  },
+  {
+    "id": "p2",
+    "category": "laptop",
+    "name": "HP ELITEBOOK 830 G7",
+    "icon": "img/hp1/WhatsApp Image 2026-08-28 at 17.41.57.jpeg",
+    "spec": "Core i5-10310U ·8 GB RAM · 521GB SSD · 13.3\" FHD",
+    "price": 4900000,
+     "releaseDate": "2026-08-28",
+    "images": [
+      "img/hp1/WhatsApp Image 2026-08-28 at 17.41.57.jpeg",
+      "img/hp1/WhatsApp Image 2026-08-28 at 17.42.05.jpeg",
+      "img/hp1/WhatsApp Image 2026-08-28 at 17.42.12.jpeg",
+      "img/hp1/WhatsApp Image 2026-08-28 at 17.42.13.jpeg",
+      "img/hp1/WhatsApp Image 2026-08-28 at 17.42.14.jpeg"
+    ],
+    "specs": [
+      { "label": "Prosesor", "value": "Intel Core i5-10310U" },
+      { "label": "RAM", "value": "8GB" },
+      { "label": "Penyimpanan", "value": "512 GB SSD" },
+      { "label": "Layar", "value": "13,3\" FHD (1920x1080)" },
+      { "label": "Grafis", "value": "Intel HD  Graphics" },
+      { "label": "Baterai", "value": "Pemakaian normal" },
+      { "label": "Sistem Operasi", "value": "Windows 11 Home (original)" },
+      { "label": "Berat", "value": "1.5 kg" },
+      { "label": "Garansi", "value": "Garansi mesin 1 Bulan" }
+    ]
+  },
+
+  {
+    "id": "p3",
+    "category": "laptop",
+    "name": "HP 14-DQ1025NR",
+    "icon": "img/hp2/WhatsApp Image 2026-08-28 at 17.59.52.jpeg",
+    "spec": "Core i3-1005G1 · 4 GB RAM · 256GB SSD · 14\" HD (1366x768)",
+    "price": 3500000,
+     "releaseDate": "2026-08-28",
+    "images": [
+      "img/hp2/WhatsApp Image 2026-08-28 at 17.59.52.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.00.02.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.00.05.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.00.12.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.05.08.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.05.09.jpeg"
+    ],
+    "specs": [
+      { "label": "Prosesor", "value": "Intel Core i3-1005G1" },
+      { "label": "RAM", "value": "4 GB" },
+      { "label": "Penyimpanan", "value": "256 GB SSD" },
+      { "label": "Layar", "value": "14 \" HD (1366x768)" },
+      { "label": "Grafis", "value": "Intel HD  Graphics" },
+      { "label": "Baterai", "value": "Pemakaian normal" },
+      { "label": "Sistem Operasi", "value": "Windows 11 Home (original)" },
+      { "label": "Berat", "value": "1.5 kg" },
+      { "label": "Garansi", "value": "Garansi mesin 1 Bulan" }
+    ]
+  },
+
+  {
+    "id": "p4",
+    "category": "laptop",
+    "name": "LENOVO IDEAPAD SLIM 1",
+    "icon": "img/hp2/WhatsApp Image 2026-08-28 at 17.59.52.jpeg",
+    "spec": "Ryzen 3-7320U · 8 GB RAM · 256GB SSD · 14\"FHD (1920x1080)",
+    "price": 3800000,
+     "releaseDate": "2026-08-28",
+    "images": [
+      "img/hp2/WhatsApp Image 2026-08-28 at 17.59.52.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.00.02.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.00.05.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.00.12.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.05.08.jpeg",
+      "img/hp2/WhatsApp Image 2026-08-28 at 18.05.09.jpeg"
+    ],
+    "specs": [
+      { "label": "Prosesor", "value": "Ryzen 3-7320U" },
+      { "label": "RAM", "value": "8 GB" },
+      { "label": "Penyimpanan", "value": "256 GB SSD" },
+      { "label": "Layar", "value": "14 \"FHD (1920x1080)" },
+      { "label": "Grafis", "value": "Amd Radeon Graphics" },
+      { "label": "Baterai", "value": "Pemakaian normal" },
+      { "label": "Sistem Operasi", "value": "Windows 11 Home (original)" },
+      { "label": "Berat", "value": "1.5 kg" },
+      { "label": "Garansi", "value": "Garansi mesin 1 Bulan" }
+    ]
+  },
+  { "id": "p5", "category": "komponen", "name": "Arduino Uno R3", "spec": "ATmega328P · USB-B", "price": 145000, "icon": "chip" },
+  { "id": "p11", "category": "tools", "name": "Solder 40W + Timah 50gr", "spec": "Ujung tajam presisi", "price": 55000, "icon": "tools" }
+  
+]
